@@ -1,2 +1,2 @@
 # Metaphor-Image-Dataset
-A small set of metaphor image dataset
+A small metaphor image dataset
